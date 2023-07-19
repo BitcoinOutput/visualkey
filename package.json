@@ -32,7 +32,7 @@
     "@fortawesome/free-regular-svg-icons": "^6.4.0",
     "@fortawesome/free-solid-svg-icons": "^6.4.0",
     "@wagmi/core": "^1.0.8",
-    "@web3modal/ethereum": "^2.4.1",
+    "@web3modal/ethereum": "^2.6.0",
     "@web3modal/html": "^2.4.1",
     "ag-grid-angular": "^29.3.5",
     "ag-grid-community": "^29.3.5",
